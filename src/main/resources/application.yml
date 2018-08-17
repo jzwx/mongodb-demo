@@ -1,0 +1,7 @@
+server:
+  port: 7077
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://jzwx:123456@localhost:27017/mongotest
